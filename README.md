@@ -122,16 +122,6 @@ Scatter plot showing the relationship between anime ratings and audience reach.
 
 ---
 
-## 📷 Dashboard Preview
-
-Add your Power BI dashboard screenshot here.
-
-```md
-![Dashboard Preview]
-
-```
-
----
 
 ## 🚀 Future Improvements
 
