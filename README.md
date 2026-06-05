@@ -128,7 +128,7 @@ Add your Power BI dashboard screenshot here.
 
 ```md
 ![Dashboard Preview]
-https://github.com/nitinkumar0014/Anime_Industry_trend_analysis/blob/main/Screenshot%202026-06-05%20121932.png
+
 ```
 
 ---
