@@ -1,0 +1,1 @@
+# Anime_Industry_trend_analysis
